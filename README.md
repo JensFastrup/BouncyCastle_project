@@ -1,4 +1,4 @@
-# BouncyCastle_project
+# BouncyCastle/SecretSharing project
 Welcome to the final cryptography project of KSCRYPT1KU, course ITU where we are going to implement Secret Sharing. 
 The secret sharing is implemented by using the Bouncy Castle API. 
 
